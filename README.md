@@ -43,7 +43,7 @@ In order to use cURL-PHP library you need to install the » libcurl package.
 
 Install this library as [Composer](http://getcomposer.org) package with following command:
 ```bash
-composer require stil/curl-easy
+composer require drewwynne0/curl-easy
 ```
 ## Examples
 ### Single blocking request
