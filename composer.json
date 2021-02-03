@@ -2,6 +2,12 @@
     "name": "drewwynne0/curl-easy",
     "description": "cURL wrapper for PHP. Supports parallel and non-blocking requests. For high speed crawling, see stil/curl-robot.",
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/drewwynne0/curl-easy"
+        }
+    ],
     "require": {
         "symfony/event-dispatcher": "^5.0"
     },
